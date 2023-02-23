@@ -1,5 +1,5 @@
 layout: page
 title: "Test page"
-permalink: https://anatolish00.github.io/about/contact
+permalink: /test
 
 Hello this is test page I have no idea what I am doing

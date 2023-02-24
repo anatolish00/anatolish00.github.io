@@ -1,4 +1,2 @@
-example
+My Website
 =======
-
-Jekyll example Project site

@@ -1,5 +1,7 @@
 ---
 layout: default
+title: A useful page
+description: A very useful page
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

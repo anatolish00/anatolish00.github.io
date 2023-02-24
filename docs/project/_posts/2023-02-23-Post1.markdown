@@ -1,8 +1,0 @@
---- 
-layout: post
-title: "TEST"
-date: 2023-02-23 15:59:21
-categories: CATEGORY-1 CATEGORY-2
----
-
-Here is the post, I don't know how it should look like **bold text**

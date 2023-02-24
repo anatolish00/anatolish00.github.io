@@ -1,8 +1,9 @@
 # Site settings
-title: Anatoli Shatsila
+title: Странное место
+description: Personal webpage of Anatoli Shatsila
+show_downloads: true
+google_analytics:
 email: anatoli.shatsila@student.uj.edu.pl
-description: > # this means to ignore newlines until "baseurl:"
-  Personal webpage of Anatoli Shatsila
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://anatolish00.github.io" # the base hostname & protocol for your site
 github_username:  anatolish00

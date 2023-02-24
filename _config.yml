@@ -1,7 +1,6 @@
 # Site settings
 title: Кафе на краю матем
 description: Personal webpage of Anatoli Shatsila
-show_downloads: true
 google_analytics:
 email: anatoli.shatsila@student.uj.edu.pl
 baseurl: "" # the subpath of your site, e.g. /blog/

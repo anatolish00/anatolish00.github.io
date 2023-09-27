@@ -1,8 +1,8 @@
 # Site settings
-title: Кафе на краю матем
+title: Title
 description: Personal webpage of Anatoli Shatsila
 google_analytics:
-email: anatoli.shatsila@student.uj.edu.pl
+email: anatoli.shatsila@doctoral.uj.edu.pl
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://anatolish00.github.io" # the base hostname & protocol for your site
 github_username:  anatolish00

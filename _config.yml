@@ -1,6 +1,6 @@
 # Site settings
-title: Title1
-description: Personal webpage of Anatoli Shatsila
+title: Anatoli Shatsila
+description: Mathematics PhD Student at Jagiellonian University
 google_analytics:
 email: anatoli.shatsila@doctoral.uj.edu.pl
 baseurl: "" # the subpath of your site, e.g. /blog/

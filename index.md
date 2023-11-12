@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img src="profile_photo.jpg" alt="Your Photo" style="float: right; margin-left: 5px;" width="264" height="284">
+<img src="profile_photo.jpg" alt="Your Photo" style="float: right; margin-left: 30px;" width="264" height="284">
 
 ## About Me
 

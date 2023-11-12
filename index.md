@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![Anatoli Shatsila](profile_photo.jpg)
+![Anatoli Shatsila](profile_photo.jpg =300x200)
 
 ## About Me
 

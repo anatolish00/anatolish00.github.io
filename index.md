@@ -1,42 +1,32 @@
 ---
 layout: default
-title: Your Name - Academic Homepage
 ---
 
-# Your Name
 
-![Your Name](profile_photo.jpg)
+![Anatoli Shatsila](profile_photo.jpg)
 
 ## About Me
 
-I am a [Your Position] at [Your Institution]. My research interests include [Your Research Interests]. I am dedicated to advancing knowledge in [Your Field] and contributing to the academic community.
-
-## Contact Information
-
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-
-## Research
-
-For more details about my research, please visit my [Research Page](./research).
+I am a PhD student at Jagiellonian University in Krakow, Poland. My research interests include abelian varieties, Prym varieties, and their moduli spaces.
 
 ## Curriculum Vitae (CV)
 
-You can find my CV [here](./cv).
+You can find my CV [here](cv.pdf).
 
-## Selected Publications
+## Publications
 
-- Author 1, Author 2, & Your Name. (Year). Title of the Paper. *Journal of XYZ*, 30(2), 123-145. [Link to Paper](https://doi.org/10.1234/journalxyz)
+- P. Borówka, A. Shatsila, Hyperelliptic genus 3 curves with involutions and a Prym map, preprint (2023) [arxiv](https://arxiv.org/abs/2308.07038)
 
-- Author 3, Your Name, et al. (Year). Another Title. *Journal of ABC*, 25(3), 67-89. [Link to Paper](https://doi.org/10.5678/journalabc)
+- A. Shatsila, Geometry of elliptic normal curves of degree 6, Communications in Algebra (2023), 1-15 [arxiv](https://arxiv.org/abs/2203.11672)
 
-## Teaching
+- W. Guifeng, T. Disheng, A. Shatsila and X. Zhang, MICA: Multi-channel Representation Refinement Contrastive Learning for Graph Fraud Detection, APWeb-WAIM (2023)
 
-I am involved in teaching [Course Name] at [Your Institution]. Here is the [course page](./teaching/course-page).
+## Contact Information
 
-## News and Updates
+- Email: anatoli dot shatsila at uj dot edu dot pl
+- LinkedIn: [Anatoli Shatsila](https://www.linkedin.com/in/anatoli-shatsila-392b5b206/)
+- Google Scholar: [Anatoli Shatsila](https://scholar.google.com/citations?user=Ka-_WPcAAAAJ&hl=en)
 
-Stay tuned for updates on my latest research findings, publications, and other news.
+Last updated November 12, 2023.
 
 ---

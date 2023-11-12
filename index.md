@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img src="profile_photo.jpg" alt="Your Photo" style="float: right; margin-left: 20px;" width="264" height="284">
+<img src="profile_photo.jpg" alt="Your Photo" style="float: right; margin-left: 15px;" width="264" height="284">
 
 ## About Me
 
@@ -17,7 +17,7 @@ You can find my CV [here](cv.pdf).
 
 ## Publications
 
-- P. Borówka, A. Shatsila, *Hyperelliptic genus 3 curves with involutions and a Prym map*, preprint (2023); [arXiv version](https://arxiv.org/abs/2308.07038);
+- P. Borówka, A. Shatsila, *Hyperelliptic genus 3 curves with involutions and a Prym map*, preprint (2023) [arXiv version](https://arxiv.org/abs/2308.07038);
 
 - A. Shatsila, *Geometry of elliptic normal curves of degree 6*, Communications in Algebra (2023), 1-15 [arXiv version](https://arxiv.org/abs/2203.11672);
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-image: profile_photo.jpg
+photo: profile_photo.jpg
 ---
 
 

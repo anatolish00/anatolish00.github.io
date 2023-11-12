@@ -1,14 +1,13 @@
 ---
 layout: default
-photo: profile_photo.jpg
 ---
 
 
-<img src="profile_photo.jpg" alt="Your Photo" style="float: left; margin-right: 20px;" width="200" height="200">
+<img src="profile_photo.jpg" alt="Your Photo" style="float: left; margin-left: 20px;" width="264" height="284">
 
 ## About Me
 
-I am a Mathematics PhD student at Jagiellonian University in Krakow, Poland. My research interests include abelian varieties, Prym varieties and their moduli spaces.
+I am a Mathematics PhD student at Jagiellonian University in Krakow, Poland under the supervision of Paweł Borówka. My research interests include abelian varieties, Prym varieties and their moduli spaces.
 
 ## Curriculum Vitae (CV)
 

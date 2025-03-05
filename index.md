@@ -29,7 +29,7 @@ P. Pielasa, M. Šafránek, A. Shatsila, *Exact values of generic subrank*, prepr
 
 ## Hobbies
 
-I enjoy doing various sports with running being my favourite at the moment. If you have a strava account and want to watch me running the same route almost every day, leave me a message! 
+I enjoy doing various sports with running and swimming being my favourite at the moment. If you have a strava account and want to connect, leave me a message! 
 
 ## Contact Information
 

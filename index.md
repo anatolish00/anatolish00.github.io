@@ -25,7 +25,7 @@ You can find my CV [here](cv.pdf).
 
 ## Preprints
 
-P. Pielasa, M. Šafránek, A. Shatsila, *Exact values of generic subrank*, preprint (2024) [[arXiv version]]((https://arxiv.org/abs/2408.07550))
+P. Pielasa, M. Šafránek, A. Shatsila, *Exact values of generic subrank*, preprint (2024) [[arXiv version]](https://arxiv.org/abs/2408.07550)
 
 ## Hobbies
 

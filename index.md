@@ -17,6 +17,8 @@ You can find my CV [here](cv.pdf).
 
 ## Publications
 
+P. Pielasa, M. Šafránek, A. Shatsila, *Exact values of generic subrank*, Advances in Mathematics vol. 469 (2025) [[arXiv version]](https://arxiv.org/abs/2408.07550)
+
 - P. Borówka, A. Shatsila, *Hyperelliptic genus 3 curves with involutions and a Prym map*, Mathematische Nachrichten vol. 297 (2024), 3080-3094 [[arXiv version]](https://arxiv.org/abs/2308.07038)
 
 - A. Shatsila, *Geometry of elliptic normal curves of degree 6*, Communications in Algebra (2023), 1-15 [[arXiv version]](https://arxiv.org/abs/2203.11672)
@@ -25,11 +27,11 @@ You can find my CV [here](cv.pdf).
 
 ## Preprints
 
-P. Pielasa, M. Šafránek, A. Shatsila, *Exact values of generic subrank*, preprint (2024) [[arXiv version]](https://arxiv.org/abs/2408.07550)
+- P. Borówka, A. Shatsila, *Pryms of $\mathbb{Z}_3 \times \mathbb{Z}_3$ coverings of genus 2 curves*, [[arXiv_version]](https://arxiv.org/abs/2503.23041))
 
 ## Hobbies
 
-I enjoy doing various sports with running and swimming being my favourite at the moment. If you have a strava account and want to connect, leave me a message! 
+I enjoy doing sports with running and swimming being my favourite at the moment. If you have a strava account and want to connect, leave me a message! 
 
 ## Contact Information
 
@@ -39,6 +41,6 @@ I enjoy doing various sports with running and swimming being my favourite at the
 
 ---
 
-Last updated March 5, 2025.
+Last updated June 19, 2025.
 
 ---

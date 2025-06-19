@@ -1,3 +1,22 @@
+<style TYPE="text/css">
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
+</style>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
+    }
+});
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
+
 ---
 layout: default
 ---
@@ -17,7 +36,7 @@ You can find my CV [here](cv.pdf).
 
 ## Publications
 
-P. Pielasa, M. Šafránek, A. Shatsila, *Exact values of generic subrank*, Advances in Mathematics vol. 469 (2025) [[arXiv version]](https://arxiv.org/abs/2408.07550)
+- P. Pielasa, M. Šafránek, A. Shatsila, *Exact values of generic subrank*, Advances in Mathematics vol. 469 (2025) [[arXiv version]](https://arxiv.org/abs/2408.07550)
 
 - P. Borówka, A. Shatsila, *Hyperelliptic genus 3 curves with involutions and a Prym map*, Mathematische Nachrichten vol. 297 (2024), 3080-3094 [[arXiv version]](https://arxiv.org/abs/2308.07038)
 
@@ -27,7 +46,7 @@ P. Pielasa, M. Šafránek, A. Shatsila, *Exact values of generic subrank*, Advan
 
 ## Preprints
 
-- P. Borówka, A. Shatsila, *Pryms of $\mathbb{Z}_3 \times \mathbb{Z}_3$ coverings of genus 2 curves*, [[arXiv_version]](https://arxiv.org/abs/2503.23041))
+- P. Borówka, A. Shatsila, *Pryms of $\mathbb{Z}_3 \times \mathbb{Z}_3$ coverings of genus 2 curves*, [[arXiv_version]](https://arxiv.org/abs/2503.23041)
 
 ## Hobbies
 

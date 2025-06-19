@@ -7,7 +7,7 @@ layout: default
 
 ## About Me
 
-I am a Mathematics PhD student at Jagiellonian University in Krakow under the supervision of Paweł Borówka. My research interests include abelian varieties, Jacobians and the Prym theory.
+I am a second year Mathematics PhD student at Jagiellonian University in Krakow under the supervision of Paweł Borówka. My research interests include abelian varieties, Jacobians and the Prym theory.
 
 ---
 

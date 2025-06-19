@@ -13,4 +13,5 @@ plugins:
 
 # Build settings
 markdown: kramdown
+  math_engine: mathjax
 permalink: /:year/:title:output_ext

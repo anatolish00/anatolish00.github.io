@@ -27,7 +27,7 @@ You can find my CV [here](cv.pdf).
 
 ## Preprints
 
-- P. Borówka, A. Shatsila, *Pryms of $\mathbb Z_3 \times \mathbb Z_3$ coverings of genus 2 curves*, [[arXiv_version]](https://arxiv.org/abs/2503.23041)
+- P. Borówka, A. Shatsila, *Pryms of $\mathbb{Z_3} \times \mathbb{Z_3}$ coverings of genus 2 curves*, [[arXiv_version]](https://arxiv.org/abs/2503.23041)
 
 ## Hobbies
 

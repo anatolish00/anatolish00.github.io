@@ -27,6 +27,8 @@ You can find my CV [here](cv.pdf).
 
 ## Preprints
 
+- V. Borovik, C. Flavi, P. Pielasa, A. Shatsila, J. Song *On the construction of a counterexample to Strassen's rank additivity conjecture* [[arXiv version]](https://arxiv.org/abs/2507.17890) 
+
 - P. Borówka, A. Shatsila, *Pryms of $\mathbb{Z_3} \times \mathbb{Z_3}$ coverings of genus 2 curves*, [[arXiv_version]](https://arxiv.org/abs/2503.23041)
 
 ## Hobbies

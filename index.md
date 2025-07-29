@@ -45,6 +45,6 @@ I enjoy doing sports with running and swimming being my favourite at the moment.
 
 ---
 
-Last updated June 19, 2025.
+Last updated July 29, 2025.
 
 ---

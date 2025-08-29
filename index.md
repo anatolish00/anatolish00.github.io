@@ -37,7 +37,7 @@ You can find my CV [here](cv.pdf).
 
 ## Hobbies
 
-I enjoy doing sports with running and swimming being my favourite at the moment. If you have a strava account and want to connect, leave me a message! 
+I enjoy doing sports with running and cycling being my favourite at the moment. If you have a strava account and want to connect, leave me a message! 
 
 ## Contact Information
 

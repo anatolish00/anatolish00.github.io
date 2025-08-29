@@ -27,7 +27,7 @@ You can find my CV [here](cv.pdf).
 
 ## Preprints
 
-- A. Shatsila, *On the Prym map of degree 4 cyclic covers of genus 2 curves*, [[arXiv version]](https://arxiv.org/abs/2508.20838)
+- A. Shatsila, *On the Prym map of degree 4 cyclic covers of genus 2 curves* [[arXiv version]](https://arxiv.org/abs/2508.20838)
 
 - J. Jagiełła, P. Pielasa, A. Shatsila, *Characteristic numbers of algebras* [[arXiv version]](https://arxiv.org/abs/2507.19587)
 

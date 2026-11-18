@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img src="profile_photo.jpg" alt="Your Photo" style="float: right; margin-left: 30px;" width="264" height="284">
+<img src="profile_photo.jpg" alt="Portrait of Anatoli Shatsila" style="float: right; margin-left: 30px; width: 264px; max-width: 100%; height: auto;">
 
 ## About Me
 

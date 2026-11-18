@@ -1,0 +1,35 @@
+<!-- Render LaTeX in the Cayman theme, including math produced by Kramdown. -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    },
+    options: {
+      renderActions: {
+        findScript: [11, function (doc) {
+          for (const node of document.querySelectorAll('script[type^="math/tex"]')) {
+            const display = /;\s*mode=display/.test(node.type);
+            const math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
+            const placeholder = document.createTextNode('');
+            node.parentNode.replaceChild(placeholder, node);
+            math.start = {node: placeholder, delim: '', n: 0};
+            math.end = {node: placeholder, delim: '', n: 0};
+            doc.math.push(math);
+          }
+        }, '']
+      }
+    }
+  };
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+<style>
+  @media (max-width: 640px) {
+    img.profile-photo {
+      float: none !important;
+      display: block;
+      margin: 0 auto 1.5rem !important;
+    }
+  }
+</style>

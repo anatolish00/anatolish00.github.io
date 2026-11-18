@@ -7,7 +7,7 @@ layout: default
 
 ## About Me
 
-I am a third year Mathematics PhD student at Jagiellonian University in Krakow under the supervision of Paweł Borówka. My research interests include abelian varieties, Jacobians and the Prym theory.
+I am a fourth-year Mathematics PhD student at Jagiellonian University in Krakow under the supervision of Paweł Borówka. My research interests include Prym varieties and Prym maps, Jacobians, and curves on abelian surfaces.
 
 ---
 
@@ -45,7 +45,7 @@ You can find my (slightly outdated) CV [here](cv.pdf).
 
 ## Hobbies
 
-I enjoy doing sports with cycling and running being my favourite. If you have a Strava account and want to connect, leave me a message! 
+I enjoy competing in amateur triathlons. If you have a Strava account and want to connect, leave me a message! 
 
 ## Contact Information
 

@@ -17,25 +17,31 @@ You can find my (slightly outdated) CV [here](cv.pdf).
 
 ## Publications
 
-- P. Borówka, A. Shatsila, *Pryms of $\mathbb{Z_3} \times \mathbb{Z_3}$ coverings of genus 2 curves*, Proceedings of the American Mathematical Society, 154:1433–1451, 2026. [[arXiv_version]](https://arxiv.org/abs/2503.23041)
+- P. Borówka, A. Shatsila, *Pryms of $\mathbb{Z}_3 \times \mathbb{Z}_3$ coverings of genus 2 curves*, Proceedings of the American Mathematical Society **154** (2026), 1433–1451. [[arXiv version]](https://arxiv.org/abs/2503.23041)
 
-- P. Pielasa, M. Šafránek, A. Shatsila, *Exact values of generic subrank*, Advances in Mathematics vol. 469 (2025) [[arXiv version]](https://arxiv.org/abs/2408.07550)
+- P. Pielasa, M. Šafránek, A. Shatsila, *Exact values of generic subrank*, Advances in Mathematics **469** (2025), 110234. [[arXiv version]](https://arxiv.org/abs/2408.07550)
 
-- P. Borówka, A. Shatsila, *Hyperelliptic genus 3 curves with involutions and a Prym map*, Mathematische Nachrichten vol. 297 (2024), 3080-3094 [[arXiv version]](https://arxiv.org/abs/2308.07038)
+- P. Borówka, A. Shatsila, *Hyperelliptic genus 3 curves with involutions and a Prym map*, Mathematische Nachrichten **297** (2024), 3080–3094. [[arXiv version]](https://arxiv.org/abs/2308.07038)
 
-- A. Shatsila, *Geometry of elliptic normal curves of degree 6*, Communications in Algebra (2023), 1-15 [[arXiv version]](https://arxiv.org/abs/2203.11672)
+- A. Shatsila, *Geometry of elliptic normal curves of degree 6*, Communications in Algebra **51** (2023), 5344–5358. [[arXiv version]](https://arxiv.org/abs/2203.11672)
 
-- W. Guifeng, T. Disheng, A. Shatsila and X. Zhang, *MICA: Multi-channel Representation Refinement Contrastive Learning for Graph Fraud Detection*, APWeb-WAIM (2023)
+- G. Wang, D. Tang, A. Shatsila, X. Zhang, *MICA: Multi-channel Representation Refinement Contrastive Learning for Graph Fraud Detection*, APWeb-WAIM (2023), 31–46.
 
 ## Preprints
 
-- P. Borówka, J. C. Naranjo, A. Ortega, A. Shatsila, *Prym maps of cyclic coverings of hyperelliptic curves* [[arXiv version]](https://arxiv.org/abs/2510.01330)
+- P. Borówka, P. Grossi, A. Shatsila, *Hyperelliptic curves on $(1,d)$ abelian surfaces for $d\leq 15$* (2026). [[arXiv version]](https://arxiv.org/abs/2610.40989)
 
-- A. Shatsila, *On the Prym map of degree 4 cyclic covers of hyperelliptic curves* [[arXiv version]](https://arxiv.org/abs/2508.20838)
+- A. Shatsila, *Theta-duality and Prym-Torelli for cyclic covers of hyperelliptic curves* (2026). [[arXiv version]](https://arxiv.org/abs/2609.14135)
 
-- J. Jagiełła, P. Pielasa, A. Shatsila, *Characteristic numbers of algebras* [[arXiv version]](https://arxiv.org/abs/2507.19587)
+- A. Shatsila, *A note on smooth quotients of Prym varieties* (2026). [[arXiv version]](https://arxiv.org/abs/2608.18000)
 
-- V. Borovik, C. Flavi, P. Pielasa, A. Shatsila, J. Song *On the construction of a counterexample to Strassen's rank additivity conjecture* [[arXiv version]](https://arxiv.org/abs/2507.17890) 
+- P. Borówka, J. C. Naranjo, A. Ortega, A. Shatsila, *Finiteness and injectivity of Prym maps for cyclic coverings* (2025). [[arXiv version]](https://arxiv.org/abs/2510.01330)
+
+- A. Shatsila, *On the Prym map of degree 4 cyclic covers of hyperelliptic curves* (2025). [[arXiv version]](https://arxiv.org/abs/2508.20838)
+
+- J. Jagiełła, P. Pielasa, A. Shatsila, *Characteristic numbers of algebras* (2025). [[arXiv version]](https://arxiv.org/abs/2507.19587)
+
+- V. Borovik, C. Flavi, P. Pielasa, A. Shatsila, J. Song, *On the construction of a counterexample to Strassen's rank additivity conjecture* (2025). [[arXiv version]](https://arxiv.org/abs/2507.17890)
 
 ## Hobbies
 
@@ -49,6 +55,6 @@ I enjoy doing sports with cycling and running being my favourite. If you have a 
 
 ---
 
-Last updated May 24, 2026.
+Last updated November 18, 2026.
 
 ---

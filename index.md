@@ -45,7 +45,7 @@ You can find my (slightly outdated) CV [here](cv.pdf).
 
 ## Hobbies
 
-I enjoy competing in amateur triathlons. If you have a Strava account and want to connect, leave me a message! 
+I enjoy doing triathlons. If you have a Strava account and want to connect, leave me a message! 
 
 ## Contact Information
 
